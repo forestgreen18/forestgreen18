@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@illiakornyk](https://telegram.me/illiakornyk)</code>
-<code>📫 [i.kornyk.im24@kpi.ua](mailto:i.kornyk.im24@kpi.ua)</code>
+<code>💬 telegram: [@eliyahu_k](https://telegram.me/eliyahu_k)</code>
+
